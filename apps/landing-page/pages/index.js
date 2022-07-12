@@ -81,7 +81,7 @@ export default function Home() {
         }
 
         .title a {
-          color: #0070f3;
+          color: #9f163b;
           text-decoration: none;
         }
 
@@ -113,7 +113,7 @@ export default function Home() {
           padding: 0.75rem;
           font-size: 1.1rem;
           font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
-            DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+          DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
         }
 
         .grid {
@@ -141,8 +141,8 @@ export default function Home() {
         .card:hover,
         .card:focus,
         .card:active {
-          color: #0070f3;
-          border-color: #0070f3;
+          color: #74c511;
+          border-color: #83a61a;
         }
 
         .card h3 {
