@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/julianomcl/monorepo-release-please/compare/v0.7.0...v1.0.0) (2022-07-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove texts
+
+### Features
+
+* remove texts ([de7b502](https://github.com/julianomcl/monorepo-release-please/commit/de7b50288d7569334edbaac80f81082f9e388b14))
+
 ## [0.7.0](https://github.com/julianomcl/monorepo-release-please/compare/v0.6.0...v0.7.0) (2022-07-12)
 
 

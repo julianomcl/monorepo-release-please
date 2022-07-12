@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/julianomcl/monorepo-release-please/compare/onboarding-v1.2.0...onboarding-v1.3.0) (2022-07-12)
+
+
+### Features
+
+* change colors ([b1ad72f](https://github.com/julianomcl/monorepo-release-please/commit/b1ad72f3b49693174db0084515c903d70899edc5))
+
 ## [1.2.0](https://github.com/julianomcl/monorepo-release-please/compare/onboarding-v1.1.0...onboarding-v1.2.0) (2022-07-12)
 
 
