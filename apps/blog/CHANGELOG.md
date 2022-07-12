@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/julianomcl/monorepo-release-please/compare/v1.2.0...v1.3.0) (2022-07-12)
+
+
+### Features
+
+* change learn text ([a6a7ef2](https://github.com/julianomcl/monorepo-release-please/commit/a6a7ef272b372c50196ea7ccd1594467058fef56))
+
 ## [1.2.0](https://github.com/julianomcl/monorepo-release-please/compare/v1.1.0...v1.2.0) (2022-07-12)
 
 
