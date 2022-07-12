@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/julianomcl/monorepo-release-please/compare/v1.0.0...v1.1.0) (2022-07-12)
+
+
+### Features
+
+* change color ([0e2b622](https://github.com/julianomcl/monorepo-release-please/commit/0e2b622c880f921e58562cd44fdf3cd2ce6cd99c))
+
 ## [1.0.0](https://github.com/julianomcl/monorepo-release-please/compare/v0.7.0...v1.0.0) (2022-07-12)
 
 
