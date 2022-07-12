@@ -1,0 +1,13 @@
+{
+  "packages": {
+    "apps/blog": {
+
+    },
+    "apps/landing-page": {
+
+    },
+    "apps/onboarding": {
+
+    }
+  }
+}
