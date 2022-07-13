@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.0.0](https://github.com/julianomcl/monorepo-release-please/compare/v1.1.0...v2.0.0) (2022-07-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove texts
+
+### Features
+
+* change color ([0e2b622](https://github.com/julianomcl/monorepo-release-please/commit/0e2b622c880f921e58562cd44fdf3cd2ce6cd99c))
+* change learn text ([a6a7ef2](https://github.com/julianomcl/monorepo-release-please/commit/a6a7ef272b372c50196ea7ccd1594467058fef56))
+* change text docs ([205b24d](https://github.com/julianomcl/monorepo-release-please/commit/205b24da5e899486484b8fa1700961b4b0decf78))
+* remove text editing ([132809e](https://github.com/julianomcl/monorepo-release-please/commit/132809e39ece6c0f2b1d86716c3a347b6ab825b3))
+* remove texts ([de7b502](https://github.com/julianomcl/monorepo-release-please/commit/de7b50288d7569334edbaac80f81082f9e388b14))
+
 ## [1.1.0](https://github.com/julianomcl/monorepo-release-please/compare/v1.0.0...v1.1.0) (2022-07-12)
 
 
