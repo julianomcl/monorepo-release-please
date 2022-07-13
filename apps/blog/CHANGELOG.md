@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/julianomcl/monorepo-release-please/compare/blog-v0.2.0...blog-v0.3.0) (2022-07-13)
+
+
+### Features
+
+* change h1 to h2 ([2fe9810](https://github.com/julianomcl/monorepo-release-please/commit/2fe9810be31b3848d6bf18a6baf7727e5596fcba))
+
 ## [0.2.0](https://github.com/julianomcl/monorepo-release-please/compare/blog-v0.1.0...blog-v0.2.0) (2022-07-13)
 
 
