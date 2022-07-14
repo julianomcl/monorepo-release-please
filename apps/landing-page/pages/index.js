@@ -16,12 +16,10 @@ export default function Home() {
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
             <h3>Documentação &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className="card">
             <h3>Aprenda &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
         </div>
       </main>
