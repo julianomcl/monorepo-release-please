@@ -1,5 +1,5 @@
 {
-  "apps/landing-page": "0.2.0",
-  "apps/blog": "0.3.0",
-  "apps/onboarding": "0.2.0"
+  "apps/landing-page": "1.0.0",
+  "apps/blog": "0.3.1",
+  "apps/onboarding": "0.3.0"
 }

@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          Inicie editando <code>pages/index.js</code>
+          Inicie editando aqui em <code>pages/index.js</code>
         </p>
 
         <div className="grid">
