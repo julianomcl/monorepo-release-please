@@ -15,7 +15,7 @@ export default function Home() {
 
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
-            <h3>Documentação &rarr;</h3>
+            <h3>Documentação</h3>
           </a>
 
           <a href="https://nextjs.org/learn" className="card">
